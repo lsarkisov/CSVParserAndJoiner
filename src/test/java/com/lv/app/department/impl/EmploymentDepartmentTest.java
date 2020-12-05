@@ -1,4 +1,4 @@
-package com.lv.app.company.impl;
+package com.lv.app.department.impl;
 
 import org.junit.jupiter.api.*;
 

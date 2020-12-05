@@ -1,6 +1,6 @@
 package com.lv.app;
 
-import com.lv.app.company.impl.EmploymentDepartment;
+import com.lv.app.department.impl.EmploymentDepartment;
 
 import java.io.*;
 

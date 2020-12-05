@@ -1,6 +1,6 @@
-package com.lv.app.company.impl;
+package com.lv.app.department.impl;
 
-import com.lv.app.company.Company;
+import com.lv.app.department.Department;
 import com.lv.app.decoders.impl.CSVParser;
 
 import java.io.BufferedWriter;
@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class EmploymentDepartment implements Company {
+public class EmploymentDepartment implements Department {
 
 
     List<Map<String, String>> employmentDepartment;
